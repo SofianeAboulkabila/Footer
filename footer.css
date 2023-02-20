@@ -1,0 +1,10 @@
+.footer {
+    height: 50px;
+    width: 100%;
+    background-color: rgba(18, 18, 19, 0.5);
+    border-radius: 200px 200px 0 0;
+    position: absolute;
+    bottom: 0; 
+    display: flex;
+    justify-content: center;
+}
